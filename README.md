@@ -9,3 +9,5 @@
 ### 05. AI Basic Math
 
 ### 06. Regresstion & Gradient Descent
+
+### 07. Back Propagtion
