@@ -11,3 +11,7 @@
 ### 06. Regresstion & Gradient Descent
 
 ### 07. Back Propagtion
+
+### 08. Learning Staibility and Perfomance Enhancement
+
+### 09. Autograd
